@@ -215,7 +215,7 @@ The following screenshots demonstrate the actual output of the project.
 
 ### 1. Sad Expression
 
-![Sad Expression](screenshots/sad.png)
+![Sad Expression]
 <img width="772" height="581" alt="Screenshot 2026-11-25 143309" src="https://github.com/user-attachments/assets/61d156cb-2f63-4fa7-9ab9-b0193819f460" />
 
 
@@ -223,21 +223,21 @@ The system detects the face and predicts the emotion as **Sad**.
 
 ### 2. Happy Expression
 
-![Happy Expression](screenshots/happy.png)<img width="792" height="635" alt="Screenshot 2026-11-25 143328" src="https://github.com/user-attachments/assets/f0086bc7-80f5-4001-b91d-950d003c110a" />
+![Happy Expression]<img width="792" height="635" alt="Screenshot 2026-11-25 143328" src="https://github.com/user-attachments/assets/f0086bc7-80f5-4001-b91d-950d003c110a" />
 
 
 The system detects the face and predicts the emotion as **Happy**.
 
 ### 3. Angry Expression
 
-![Angry Expression](screenshots/angry.png)<img width="795" height="623" alt="Screenshot 2026-11-25 143403" src="https://github.com/user-attachments/assets/6e043e4f-fc13-4f6b-9952-092b55e23e76" />
+![Angry Expression]<img width="795" height="623" alt="Screenshot 2026-11-25 143403" src="https://github.com/user-attachments/assets/6e043e4f-fc13-4f6b-9952-092b55e23e76" />
 
 
 The system detects the face and predicts the emotion as **Angry**.
 
 ### 4. Surprise Expression
 
-![Surprise Expression](screenshots/surprise.png)<img width="793" height="631" alt="Screenshot 2026-11-25 143456" src="https://github.com/user-attachments/assets/5220f096-d560-44d5-af03-c81f1854d325" />
+![Surprise Expression]<img width="793" height="631" alt="Screenshot 2026-11-25 143456" src="https://github.com/user-attachments/assets/5220f096-d560-44d5-af03-c81f1854d325" />
 
 
 The system detects the face and predicts the emotion as **Surprise**.
